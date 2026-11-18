@@ -9,7 +9,7 @@ Make.fun 是一个编程赏金竞赛平台，赞助方发布带奖金和截止�
 
 它不是工资，是竞赛：没进获奖名次就没有奖金。多数赏金免费参加，个别会收少量报名费，页面上会注明。
 
-## 怎么开始（3 步）
+## 怎么开始（4 步）
 
 ### 1. 注册账号
 
@@ -18,13 +18,26 @@ https://make.fun/r/8243zp11
 
 登录方式有 GitHub、Google、Apple、Discord、Solana 钱包，选一个你方便的就行。注册时不需要手机号和身份证。
 
-### 2. 安装 Make.fun 技能
+### 2. 没有 AI 助手？先用免费的试试
+
+没有 Claude Code、Cursor 这些付费工具也不用急，可以先用一个免费的 AI 来参加比赛，有可能拿到奖金。
+
+我自己试过 LightVela Bot：https://lightvela.com/?ref=ST7PBT4CDN
+- 注册免费体验 1 个月，送 4500 AI 积分
+- 还送一台云电脑，支持接入 WhatsApp、Telegram 等海外平台工具
+- 不需要绑卡，只需要实名
+
+用这个免费的 AI 助手，按下面第 3 步的方法去参加 make.fun 的赏金比赛就行。免费积分用完了再考虑要不要续费，不续费也不会扣钱。
+
+> 提醒：免费体验的具体规则以 LightVela 官网页面为准，我上面写的是我自己注册时的情况。
+
+### 3. 安装 Make.fun 技能
 
 打开 https://make.fun/skill.md ，按页面上的说明，把技能装到你的 AI 编程助手里。
 
 支持的助手包括 Claude Code、Codex、Cursor、GitHub Copilot 等。首页和赏金页上的“Copy for your agent”按钮，就是复制一段提示词，粘贴到新的智能体对话里，让它按 skill.md 的步骤做。
 
-### 3. 选一个赏金参赛
+### 4. 选一个赏金参赛
 
 1. 在 make.fun 上浏览进行中的赏金，选一个你感兴趣的
 2. 让你的 AI 助手按任务要求写代码
